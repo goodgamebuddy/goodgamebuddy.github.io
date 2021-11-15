@@ -6,10 +6,10 @@ categories: [faq,how]
 
 Assuming you've installed [the app](/faq/download/2021/11/14/download-it), the next step is to [download a game system file](/faq/how/2021/11/10/how-to-add-a-game-system/#download-game-system-file) to your device. Once you've done that, open up the app and [add the file to it](/faq/how/2021/11/10/how-to-add-a-game-system/#add-game-system-file) by clicking "Manage files" then "Add game system file", and choosing the file that you just downloaded. The app will then download all the associated data files, and when it's done you'll be able to view the rules and profiles for that game system.
 
-## Downloading a game system file {#download-game-system-file}
+### Downloading a game system file {#download-game-system-file}
 
 
-## Add the game system file to the app {#add-game-system-file}
+### Add the game system file to the app {#add-game-system-file}
 
 - open up the app
 - click "Manage files"
