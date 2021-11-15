@@ -8,3 +8,4 @@ The app makes use of data files created by the community. Once you've downloaded
 
 Here's a <a href="_posts/2021-11-14-download-it.md">download it</a> link
 
+Here's [another download](/2021-11-14-download-it.md) link
