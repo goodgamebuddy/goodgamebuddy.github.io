@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Download it
-permalink: /downloadit/
+permalink: /download-it/
 categories: [faq,download]
 ---
 
