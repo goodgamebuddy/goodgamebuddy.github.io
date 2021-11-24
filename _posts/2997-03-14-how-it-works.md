@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How it works
-permalink: /howitworks/
+permalink: /how-it-works/
 categories: [how,faq]
 ---
 
