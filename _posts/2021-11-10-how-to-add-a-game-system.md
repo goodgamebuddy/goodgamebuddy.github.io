@@ -17,3 +17,7 @@ Assuming you've installed [the app](/download-it), the next step is to [download
 - click "Add game system file"
 - choose the file that you just downloaded
 - wait while it downloads all the data files...
+
+### Demo
+
+<img align="left" width="411" height="852" src="{{ site.baseurl }}/assets/image/AddGameSystemDemo.gif" title="How to add a game system demo">  
