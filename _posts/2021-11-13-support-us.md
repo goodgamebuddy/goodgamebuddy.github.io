@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Support us
-permalink: /supportus/
+permalink: /support-us/
 categories: [faq,funding]
 ---
 
