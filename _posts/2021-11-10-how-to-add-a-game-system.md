@@ -19,5 +19,6 @@ Assuming you've installed [the app](/download-it), the next step is to [download
 - wait while it downloads all the data files...
 
 ### Demo
+This demonstrates how to add a game system, including how long it can take to download all the files...
 
 <img align="left" width="411" height="852" src="{{ site.baseurl }}/assets/image/AddGameSystemDemo.gif" title="How to add a game system demo">  
