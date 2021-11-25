@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Electric Blurbaloo
+permalink: /electric-blurbaloo/
 categories: [funding]
 ---
 
