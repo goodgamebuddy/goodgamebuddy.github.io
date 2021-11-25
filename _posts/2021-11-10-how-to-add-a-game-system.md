@@ -23,7 +23,7 @@ Once you've downloaded the game system file you can add it to the app by carryin
 - open up the app
 - click "Manage files"
 - click "Add game system file"
-- choose the file that you just downloaded
+- choose the game system file that you just downloaded
 - wait while it downloads all the data files...
 
 ### Demo
