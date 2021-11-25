@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to add a game system
+title: Who are you?
 permalink: /who-are-you/
 categories: [faq]
 ---
