@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Acknowledgements
+permalink: /acknowledgements/
 categories: [thanks]
 ---
 
