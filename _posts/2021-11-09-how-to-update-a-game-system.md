@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to update a Game System
+permalink: /how-to-update-a-game-system/
 categories: [faq,how]
 ---
 
