@@ -8,7 +8,7 @@ categories: [thanks]
 Many thanks to
 
  - the people who have created and maintained the game system files that the app uses - your efforts are greatly appreciated!
- - anybody who supports me on [Patron](https://patreon.com/goodgamebuddy) - you are truly awesome.
+ - anybody who supports me on [Patreon](https://patreon.com/goodgamebuddy) - you are truly awesome.
  - my wife, for letting me work on the app when she'd much rather I painted the bedroom. The joke's on me, though - there are apparently four rooms that now need decorating.
  - my son, for letting me use his keyboard and mouse, and for occasionally giving me a few more minutes of programming time when he wanted the laptop to play Minecraft.
  - [RealVector](https://www.shutterstock.com/image-vector/vector-dice-icon-154484273) and [Matthias Groeneveld](https://www.pexels.com/photo/red-dice-stacked-on-table-on-terrace-4200740) for the image files
