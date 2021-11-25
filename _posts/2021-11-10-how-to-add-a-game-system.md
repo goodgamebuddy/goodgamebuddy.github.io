@@ -13,9 +13,7 @@ The Good Game Buddy app uses the same game system files as those used by BattleS
 There shouldn't be a problem for games that have their rules available for free, but I'm planning to check this by contacting the creators/those responsible for the rules.
 If and when I get the OK for a game, I'll add it to the list below so that you can just click on the link to download the game system file.
 
- - [A Game](https://github.com/goodgamebuddy)
- - [Another Game](https://github.com/goodgamebuddy)
- - [The Game](https://github.com/goodgamebuddy)
+ - [The 9th Age](https://github.com/goodgamebuddy/The-9th-Age/blob/master/GGB_Files/the9thage.ggb?raw=true)
 
 ### Add the game system file to the app {#add-game-system-file}
 Once you've downloaded the game system file you can add it to the app by carrying out the following steps. Note that you will need an internet connection in order to download all the data files that are associated with the game:
