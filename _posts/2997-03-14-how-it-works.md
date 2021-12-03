@@ -17,3 +17,8 @@ Here's a demo of somebody using the app for The 9th Age:
 Here's a look at how to add a game system:
 
 ![How to add a game system demo]({{ site.baseurl }}/assets/image/AddGameSystemDemo.gif "How to add a game system demo")
+
+#### Updating a game system
+This gif demonstrates how to update a game system:
+
+![How to update a game system demo]({{ site.baseurl }}/assets/image/UpdateGameSystemDemo.gif "How to update a game system demo")
