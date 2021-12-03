@@ -5,7 +5,7 @@ permalink: /acknowledgements/
 categories: [thanks]
 ---
 
-Many thanks to
+Many thanks to...
 
  - the people who have created and maintained the game system files that the app uses - your efforts are greatly appreciated!
  - anybody who supports me on [Patreon](https://patreon.com/goodgamebuddy) - you are truly awesome.
