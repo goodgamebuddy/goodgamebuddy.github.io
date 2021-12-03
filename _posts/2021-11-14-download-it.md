@@ -11,7 +11,7 @@ Good Game Buddy is still being developed and should be regarded as "in testing".
 In addition to being available via the [Google Play Store](https://play.google.com/store/apps/details?id=ggb.GoodGameBuddy), you can also install it onto an Android device by [downloading the apk file](https://github.com/goodgamebuddy/ggb/blob/main/android/ggb.GoodGameBuddy.apk?raw=true). You might [need to change your settings](https://www.techradar.com/how-to/what-is-an-apk-and-how-do-i-install-one) to do it this way, though.
 
 ### iOS {#ios}
-As far as I kknow, in order to publish the app to iTunes I'll need access to a Mac. From [Microsoft's documentation](https://docs.microsoft.com/en-us/xamarin/ios/get-started/installation/windows/connecting-to-mac/):
+As far as I know, in order to publish the app to iTunes I'll need access to a Mac. From [Microsoft's documentation](https://docs.microsoft.com/en-us/xamarin/ios/get-started/installation/windows/connecting-to-mac/):
 
 > Building native iOS applications requires access to Apple's build tools, which only run on a Mac
 
