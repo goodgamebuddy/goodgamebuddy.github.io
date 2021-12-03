@@ -13,11 +13,7 @@ Here's a demo of somebody using the app for The 9th Age:
 
 ![9th Age demo]({{ site.baseurl }}/assets/image/9thAgeDemo.gif "9th Age demo")
 
-<span>
-<img align="left" width="411" height="852" src="{{ site.baseurl }}/assets/image/9thAgeDemo.gif" title="9th Age demo" />
-</span>
-
 #### Adding a game system
 Here's a look at how to add a game system:
 
-<img align="left" width="411" height="852" src="{{ site.baseurl }}/assets/image/AddGameSystemDemo.gif" title="How to add a game system demo" />  
+![How to add a game system demo]({{ site.baseurl }}/assets/image/AddGameSystemDemo.gif "How to add a game system demo")
