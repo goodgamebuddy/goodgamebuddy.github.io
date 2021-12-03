@@ -10,6 +10,9 @@ I started development on the app in September 2021 and up until this point all t
 ### Why Patreon? {#why-patreon}
 I didn't want people to have to pay to use the app, but I thought some people might be willing to pay to help make the app better. [Patreon](/patreon) seemed like a good idea as it would provide a monthly amount of money. Plus, it's something a lot of people in the hobby will be familiar with as it's used by lots of designers who create miniatures for 3D printing.
 
+### Can't you just work on the app for free? {#work-for-free}
+Yes, but if I work on the app for free then I need to find another source of income. This would mean having a job, which would mean I wouldn't have much time to work on the app.
+
 ### Wouldn't KickStarter have been a better idea? {#kickstarter}
 Maybe. I'm open to the idea of using KickStarter for specific pieces of development work (e.g. making the app available on iOS).
 
@@ -17,5 +20,4 @@ Maybe. I'm open to the idea of using KickStarter for specific pieces of developm
 I'd rather it was free to use - I think it's better for the hobby that way.
 
 ### Couldn't you get money from ads instead? {#why-no-ads}
-Yes, but they're annoying. I haven't looked into it, but I imagine you don't make much money out of them anyway. I guess I might be forced to go down this route if Patreon doesn't work for me.
-
+I guess so, but they're annoying. I haven't looked into it, but I imagine you don't make much money out of them anyway.
