@@ -8,7 +8,7 @@ categories: [faq,how]
 Assuming you've installed [the app](/download-it), the next step is to [download a game system file](/how-to-add-a-game-system/#download-game-system-file) to your device. Once you've done that, open up the app and [add the file to it](/how-to-add-a-game-system/#add-game-system-file) by clicking "Manage files" then "Add game system file", and choosing the file that you just downloaded. The app will then download all the associated data files, and when it's done you'll be able to view the rules and profiles for that game system.
 
 ### Downloading a game system file {#download-game-system-file}
-The Good Game Buddy app uses the same game system files as those used by BattleScribe. You can find the files [using a search engine](https://duckduckgo.com/?q=battlescribe+data+files), but you should only use those that don't infringe on copyright or licensing (otherwise you'll be breaking the law).
+The Good Game Buddy app uses the same game system files as those used by BattleScribe. You can find the files [using a search engine](https://duckduckgo.com/?q=battlescribe+data+files), but you should only use those that don't infringe on copyright or licensing (otherwise you could be breaking the law).
 
 There shouldn't be a problem for games that have their rules available for free, but I'm planning to check this by contacting the creators/those responsible for the rules.
 If and when I get the OK for a game, I'll add it to the list below so that you can just click on the link to download the game system file.
