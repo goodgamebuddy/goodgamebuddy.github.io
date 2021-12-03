@@ -24,7 +24,7 @@ Once you've downloaded the game system file you can add it to the app by carryin
 - choose the game system file that you just downloaded
 - wait while it downloads all the data files...
 
-### Demo {demo}
+### Demo {#demo}
 This gif demonstrates how to add a game system by carrying out the steps outlined above. It includes a riveting section that shows how long it can take to download the data files...
 
-<img align="left" width="411" height="852" src="{{ site.baseurl }}/assets/image/AddGameSystemDemo.gif" title="How to add a game system demo" />  
+![How to add a game system demo]({{ site.baseurl }}/assets/image/AddGameSystemDemo.gif "How to add a game system demo")
