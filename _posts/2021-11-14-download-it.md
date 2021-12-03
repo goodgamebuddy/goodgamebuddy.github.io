@@ -14,6 +14,7 @@ In addition to being available via the [Google Play Store](https://play.google.c
 As far as I kknow, in order to publish the app to iTunes I'll need access to a Mac:
 
 > Building native iOS applications requires access to Apple's build tools, which only run on a Mac
+
 (taken from the [Microsoft's documentation](https://docs.microsoft.com/en-us/xamarin/ios/get-started/installation/windows/connecting-to-mac/)).
 
 This is a bit of a problem, as I don't own a Mac. I think I should be able to get around this by using a Mac server in the cloud (from somewhere like [MacinCloud](https://www.macincloud.com/)), but this requires some time to set up. It also requires some money, albeit less than is required to buy a Mac!
